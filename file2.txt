@@ -1,0 +1,8 @@
+.vscode
+file2.txt
+Lesson_01
+Lesson_02
+log.txt
+log.txt.lck
+Text.txt
+Презентация. Знакомство с языком программирования Java.pdf
